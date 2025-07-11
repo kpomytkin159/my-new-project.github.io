@@ -1,0 +1,95 @@
+.container {
+    position: relative;
+    background-image: url(https://avatars.mds.yandex.net/get-mpic/4705079/img_id5982630438875424708.jpeg/orig);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    width: 900px;
+    height: 500px;
+    overflow: hidden;
+    top: 10px;
+    left: 226px;
+    border-radius: 25px;
+    border-color: white;
+    
+}
+
+.slades {
+
+    position: absolute;
+    top: 0;
+    left: -10px;
+    width: 150%;
+    height: 130%;
+    justify-content: center;
+     opacity: 0; 
+    transition: opacity 0.5s ease-in-out; 
+    
+}
+
+img {
+    position: relative;
+    object-fit: cover;
+    width: 50%;
+    height: 50%;
+    top: 90px;
+    left: 120px;
+    border-radius: 25px;
+
+}
+
+.click-forward {
+
+    position: relative;
+    left: 100px;
+    top: -255px;
+    left: 1041px;
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    border-color: white;
+    font-size: 35px;
+    background: transparent;
+    color: white;
+}
+
+.click-back {
+
+    position: relative;
+    top: -255px;
+    width: 60px;
+    height: 60px;
+    right: -190px;
+    border-radius: 30px;
+    border-color: white;
+    font-size: 35px;
+    background: transparent;
+    color: white;
+}
+
+.slades.active {
+
+    opacity: 1;
+}
+
+body {
+
+    background-image: url(https://i.pinimg.com/originals/1b/9c/3f/1b9c3f5bffadff6cab3b445757f3f6e1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+h1 {
+    position: relative;
+    font-size: 50px;
+    color: rgb(226, 200, 50);
+    font-family: Verdana;
+    top: 5px;
+    
+}
+.icon {
+
+    width: 20px;
+    height: 20px;
+}

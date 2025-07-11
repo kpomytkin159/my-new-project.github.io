@@ -1,0 +1,140 @@
+h2 {
+  margin-top: 5%;
+  font-size: 220%;
+  font-family: Verdana;
+  color: rgb(235, 177, 33);
+
+}
+
+
+
+p {
+
+    margin-top: 2%;
+    font-size: 170%;
+    margin-bottom: 2%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+
+}
+
+h3 {
+
+    font-size: 180%;
+    font-family: Verdana;
+    margin-top: 2%;
+    color: white;
+}
+
+.text {
+
+    margin-left: 2%;
+    margin-bottom: 3%;
+}
+
+button {
+
+    margin-left: 7%;
+    width: 15%;
+    height: 60px;
+    font-family: verdana;
+    background-image: linear-gradient(rgb(214, 61, 163),rgb(32, 35, 180));
+    color:white;
+    border-color: white;
+    
+    
+    font-size: 100%;
+    border-radius: 30px;
+
+    
+
+}
+
+.name {
+
+    margin-left: 30px;
+}
+
+img{
+    
+    
+    position: relative;
+    top: -540px;
+    max-width: 36%;
+    margin-left: 54%;
+    border-radius: 10%;
+    border-color: white;
+    
+}
+
+
+
+
+
+
+
+body {
+
+    background-image: url(https://i.pinimg.com/originals/1b/9c/3f/1b9c3f5bffadff6cab3b445757f3f6e1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    
+}
+
+.main1:hover {
+
+    color: rgb(228, 199, 39);
+    text-decoration: underline;
+}
+
+.main2:hover {
+
+    color: rgb(235, 208, 55);
+    text-decoration: underline;
+}
+
+.main3:hover {
+
+    color: rgb(238, 209, 43);
+    text-decoration: underline;
+}
+
+.abzace {
+
+    position: relative;
+    top: -300px;
+    left: 2%;
+}
+
+.abzace2 {
+
+    position: relative;
+    top: -400px;
+    left: 35%;
+    color: rgb(238, 207, 32);
+    font-family: verdana;
+    font-size: 40px;
+}
+
+.image4 {
+
+    position: relative;
+    top: 5px;
+    top: -110px;
+    right: 52%;
+    
+}
+
+.clicks {
+    position: relative;
+    top: -1160px;
+    left: 30%;
+}
+
+a {
+    color:white;
+    text-decoration: none;
+    font-family: verdana;
+    font-size: 100%;
+}

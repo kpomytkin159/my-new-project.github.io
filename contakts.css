@@ -1,0 +1,96 @@
+h1 {
+    position: relative;
+    color: rgb(221, 192, 30);
+    font-family: Verdana;
+    top: 30px;
+    font-size: 300%;
+}
+
+h2 {
+    color: white;
+    font-family: Verdana;
+    
+}
+
+h3 {
+
+    color: white;
+    font-family: verdana;
+    font-size: 150%;
+}
+
+p {
+
+    color: white;
+    font-family: verdana;
+    font-size: 120%;
+}
+
+body {
+
+    background-image: url(https://i.pinimg.com/originals/1b/9c/3f/1b9c3f5bffadff6cab3b445757f3f6e1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+
+}
+
+.form {
+
+    position: relative;
+    left: 60%;
+    top: -50px;
+    margin-top: -40px;
+    
+    
+    
+}
+
+input {
+
+    width: 30%;
+    height: 50px;
+    border-radius: 25px;
+    border-color: white;
+    background-color: transparent;
+    color: white;
+    font-size: 110%;
+    font-family: verdana;
+    
+
+}
+
+.form1 {
+
+    position: relative;
+    top: -60px;
+}
+
+button {
+    position: relative;
+    width: 15%;
+    height: 55px;
+    border-radius: 25px;
+    border-color: white;
+    left: 7%;
+    background-image: linear-gradient(rgb(192, 52, 150),rgb(24, 79, 197));
+    color: white;
+    font-size: 110%;
+    font-family: verdana;
+}
+
+::placeholder {
+
+    color: white;
+}
+
+.information {
+
+    position: relative;
+    top: 130px;
+}
+
+input:focus {
+
+    color: white;
+}
