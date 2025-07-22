@@ -1,0 +1,254 @@
+body {
+  overflow-x: hidden;
+  margin: 0;
+}
+
+.content {
+
+  position: relative;
+  max-width: 2080px;
+  min-width: 320;
+  height: 1000px;
+  
+  
+  margin: 0px auto;
+  background-image: url(https://i.pinimg.com/originals/28/da/a0/28daa0e49c553e73c5860b820a80cd97.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  top: -21px;
+}
+
+button {
+
+  position: relative;
+  left:340px;
+  top: 350px;
+  width: 350px;
+  height: 60px;
+  background-color: rgb(66, 148, 231);
+  border-radius: 15px;
+  border: 2px;
+  color: white;
+}
+
+h1 {
+  position: relative;
+  left: 450px;
+  top: 200px;
+  font-size: 50px;
+  color: white;
+  font-weight: 10;
+  font-family: verdana;
+}
+
+h2 {
+
+  position: relative;
+  left: 550px;
+  font-size: 50px;
+  color: white;
+  font-weight: 10;
+  font-family: verdana;
+  top: 20px;
+
+}
+
+p {
+
+  position: relative;
+  left: 440px;
+  font-size: 30px;
+  color: white;
+  font-weight: 10;
+  font-family: verdana;
+  top: 20px;
+}
+.text {
+
+  position: relative;
+  left: 590px;
+}
+
+.button1 {
+
+  position: relative;
+  top: -10px;
+  top: 70px;
+  left: 180px;
+  border: 10px;
+  border-color: white;
+  
+}
+
+.button2 {
+
+  position: relative;
+  top: -10px;
+  top: 70px;
+  left: 460px;
+}
+
+
+
+
+@media screen and (max-width:800px) {
+  .content {
+    
+    width: 700px;
+    
+    height: 300px;
+    
+    
+
+  }
+
+  button {
+    position: relative;
+    left: 5px;
+    width: 150px;
+    height: 50px;
+    top: 150px;
+    border-radius: 10px;
+    border: 2px;
+    background-color: rgb(64, 145, 226);
+    color: white;
+    font-family: verdana;
+    font-size: 20px;
+
+    
+    
+  }
+
+  h1 {
+    position: relative;
+    left: 20px;
+    top: 100px;
+    font-size: 30px;
+    color: white;
+    font-weight: 10;
+    font-family: verdana;
+  }
+
+  h2 {
+    position: relative;
+    left: 20px;
+    font-size: 30px;
+    color: white;
+
+
+  }
+
+}
+
+.container {
+  position: relative;
+  max-width: 2080px;
+  min-width: 320px;
+  height: 900px;
+  margin: 0px auto;
+  background-color: rgb(14, 13, 13);
+  top: -315px;
+}
+
+img {
+
+  position: relative;
+  width: 550px;
+  height: 450;
+  top: 50px;
+  left: 80px;
+  
+}
+
+.image2 {
+  position: relative;
+  height: 310px;
+  right: -20px;
+  margin-left: 70px;
+}
+
+@media screen and (max-width:800px) {
+
+  .container {
+
+    position: relative;
+    width: 700px;
+    height: 700px;
+    top: 1px;
+    top: -40px;
+  }
+
+  h2 {
+
+    position: relative;
+    left: 80px;
+    font-family: verdana;
+    font-weight: 10;
+    top: 10px;
+  }
+
+  p {
+
+    position: relative;
+    color: white;
+    font-family: verdana;
+    font-weight: 10;
+    left: 30px;
+    font-size: 15px;
+    top: -4px;
+  }
+  .text {
+
+    left: 110px;
+
+  }
+  .image1 {
+
+    position: absolute;
+    left: 15px;
+    width: 280px;
+    top: 130px;
+  }
+  .image2 {
+
+    position: relative;
+    width: 280px;
+    height: 155px;
+    left: 2px;
+    left: -54px;
+    top: 300px;
+    
+    
+    
+  }
+
+  .button1 {
+    position: relative;
+    top: -20px;
+    left: -320px;
+    top: 60px;
+    width: 250px;
+  }
+
+  .button2 {
+    position: relative;
+    left: 35px;
+    width: 250px;
+    top: 300px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
